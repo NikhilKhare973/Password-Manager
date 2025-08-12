@@ -1,0 +1,13 @@
+/* style.css or index.css */
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import "tailwindcss/components"; */
+/* @import "tailwindcss/utilities"; */
+@reference "tailwindcss";
+
+.mycontainer {
+  @apply container  mx-auto;
+}

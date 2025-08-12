@@ -1,0 +1,14 @@
+how to create a vite app and full pross to make 
+React Project: Password Manager using React, Tailwind, MongoDB & Express | Sigma WebD Tutorial #130
+
+npm create vite@latest 
+cd vite app name
+npm install
+
+Run :- npm run dev
+
+install Tailwind css , pastcss, vite, React
+
+co pilot extantion 
+
+NK intelligent
