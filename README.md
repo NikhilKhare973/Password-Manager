@@ -1,3 +1,12 @@
+# Password-Manager
+
+This is a simple password manager web application that allows users to securely store and manage their passwords for various accounts. ( This project is only for educational purposes, you can try this, Don't save your real passwords here)
+
+![App Screenshot](Screenshot1.png)
+![App Screenshot](Screenshot2.png)
+![App Screenshot](Screenshot3.png)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,9 +19,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Password-Manager
-
-This is a simple password manager web application that allows users to securely store and manage their passwords for various accounts. ( This project is only for educational purposes, you can try this, Don't save your real passwords here)
 
 ## Features
 
